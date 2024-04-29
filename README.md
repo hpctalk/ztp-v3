@@ -1,6 +1,9 @@
 # ZTP: Lightweight, Efficient, and Reliable Blockchain Privacy for Distibuted Systems
 ZTP is an early prototype, designed with a lightweight decentralized parallel processing protocol fully compatible with MPI and the distributed-storage architecture to provide blockchain-like distributed resilience support while avoiding the conventional TCP/IP stack through the support of MPI for the heavy-workload applications..
 
+## ZTP Proposed Key Management
+<img src="https://github.com/hpctalk/ztp-v3/blob/main/proposed-key-manage.png" width="400" height="200">
+
 ## ZTP Workflow
 <img src="https://user-images.githubusercontent.com/44820439/211341566-3651a90b-5d5a-4c6f-84f4-c9c3085c853b.png" width="600" height="400">
 
